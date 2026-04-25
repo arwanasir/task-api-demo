@@ -20,3 +20,26 @@ This skill ensures the project meets professional standards for repository hygie
 
 - **Professional Tone:** The README must be written in a "Senior Developer" tone.
 - **Safety:** Do not overwrite existing documentation unless the user explicitly asks; only fill empty files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
